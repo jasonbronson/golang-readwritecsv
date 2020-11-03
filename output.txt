@@ -1,0 +1,3 @@
+Movie Title|Movie Description|Movie Date
+Avengers|Marvel movie|06 20 2012
+Harry Potter|Fantasy Novel|10 11 1997
